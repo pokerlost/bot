@@ -17,7 +17,7 @@ pokerengine = "^1.9.7"
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^3.2.2"
 black = "^23.3.0"
-ruff = "^0.0.287"
+ruff = "^0.11.12"
 isort = "^5.12.0"
 mypy = "^1.2.0"
 
